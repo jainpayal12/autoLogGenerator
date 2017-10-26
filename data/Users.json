@@ -1,0 +1,734 @@
+[
+   {
+      "user_id":245,
+      "user_name":"Mamta",
+      "ActivitiesPerformed":[ "electronics ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+
+    },
+   {
+      "user_id":103,
+      "user_name":"Sangeeta",
+      "ActivitiesPerformed":[ "electronics ",    "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+
+   },
+   {
+      "user_id":236,
+      "user_name":"Sushma",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",  "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":533,
+      "user_name":"Amith",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",  "toys & games. "]
+   },
+   {
+      "user_id":1085,
+      "user_name":"Pravin",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":97,
+      "user_name":"Pooja",
+      "ActivitiesPerformed":[ "electronics ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":234,
+      "user_name":"Aditi",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":525,
+      "user_name":"Payal",
+      "ActivitiesPerformed":["sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":731,
+      "user_name":"Suresh",
+      "ActivitiesPerformed":[ "electronics ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":732,
+      "user_name":"Vikas",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":722,
+      "user_name":"Sujata",
+      "ActivitiesPerformed":[ "electronics ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":713,
+      "user_name":"Shivraj",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":266,
+      "user_name":"Dinesh",
+      "ActivitiesPerformed":[ "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1106,
+      "user_name":"Poonam",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "toys & games. "]
+   },
+   {
+      "user_id":712,
+      "user_name":"Priya",
+      "ActivitiesPerformed":[ "electronics ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":735,
+      "user_name":"Sneha",
+      "ActivitiesPerformed":[ "electronics ",  "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1091,
+      "user_name":"Saloni",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":263,
+      "user_name":"Radhika",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":726,
+      "user_name":"Vibha",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":727,
+      "user_name":"Ravi",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":734,
+      "user_name":"Sudhesh",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":736,
+      "user_name":"Sachin",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":897,
+      "user_name":"Virat",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1046,
+      "user_name":"Samanta",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1053,
+      "user_name":"sonal",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1057,
+      "user_name":"Payal",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1104,
+      "user_name":"Payal",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1111,
+      "user_name":"Payal",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":111,
+      "user_name":"Sambhav",
+      "ActivitiesPerformed":[ "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":222,
+      "user_name":"Sambhav",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":246,
+      "user_name":"Sambhav",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",    "toys & games. "]
+   },
+   {
+      "user_id":262,
+      "user_name":"Sambhav",
+      "ActivitiesPerformed":[ "electronics ",    "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":725,
+      "user_name":"Sambhav",
+      "ActivitiesPerformed":[ "electronics ",    "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":741,
+      "user_name":"Sambhav",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":745,
+      "user_name":"Sambhav",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1048,
+      "user_name":"Sambhav",
+      "ActivitiesPerformed":[ "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1058,
+      "user_name":"Sambhav",
+      "ActivitiesPerformed":["automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1067,
+      "user_name":"Sambhav",
+      "ActivitiesPerformed":["toys & games. "]
+   },
+   {
+      "user_id":1069,
+      "user_name":"Sambhav",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1072,
+      "user_name":"Sambhav",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1083,
+      "user_name":"Sambhav",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1098,
+      "user_name":"Sambhav",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1112,
+      "user_name":"Sambhav",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":337,
+      "user_name":"Pravin",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":344,
+      "user_name":"Pravin",
+      "ActivitiesPerformed":[ "electronics ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":753,
+      "user_name":"Pravin",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":990,
+      "user_name":"Pravin",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":154,
+      "user_name":"Ananya",
+      "ActivitiesPerformed":["groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":199,
+      "user_name":"Ananya",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":218,
+      "user_name":"Ananya",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":240,
+      "user_name":"Ananya",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":260,
+      "user_name":"Ananya",
+      "ActivitiesPerformed":["automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":270,
+      "user_name":"Ananya",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":340,
+      "user_name":"Ananya",
+      "ActivitiesPerformed":[ "electronics ",   "toys & games. "]
+   },
+   {
+      "user_id":349,
+      "user_name":"Ananya",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":408,
+      "user_name":"Ananya",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":638,
+      "user_name":"Ananya",
+      "ActivitiesPerformed":[ "electronics ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":880,
+      "user_name":"Ananya",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":894,
+      "user_name":"Ananya",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":896,
+      "user_name":"Ananya",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":981,
+      "user_name":"Ananya",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":992,
+      "user_name":"Ananya",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":996,
+      "user_name":"Ananya",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":998,
+      "user_name":"Ananya",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1015,
+      "user_name":"Ananya",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1024,
+      "user_name":"Ananya",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1032,
+      "user_name":"Ananya",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1052,
+      "user_name":"Ananya",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1055,
+      "user_name":"Ananya",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1065,
+      "user_name":"Ananya",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1089,
+      "user_name":"Ananya",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1095,
+      "user_name":"Ananya",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1107,
+      "user_name":"Ananya",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1118,
+      "user_name":"Ananya",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1121,
+      "user_name":"Ananya",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1141,
+      "user_name":"Ananya",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":164,
+      "user_name":"Nitin",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1037,
+      "user_name":"Nitin",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",    "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1077,
+      "user_name":"Nitin",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools "]
+   },
+   {
+      "user_id":105,
+      "user_name":"Aakash",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":237,
+      "user_name":"Aakash",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":979,
+      "user_name":"Aakash",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":53,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":95,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries "]
+   },
+   {
+      "user_id":98,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":133,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":143,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",  "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":174,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",  "toys & games. "]
+   },
+   {
+      "user_id":190,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":233,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":235,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",  "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":257,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":261,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":277,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":341,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":380,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":401,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":403,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":643,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":733,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":803,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":805,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":879,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":882,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":977,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",  "toys & games. "]
+   },
+   {
+      "user_id":978,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":991,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":995,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1028,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1033,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1038,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",     "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1049,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1082,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",  "toys & games. "]
+   },
+   {
+      "user_id":1100,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1125,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",    "toys & games. "]
+   },
+   {
+      "user_id":1251,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1253,
+      "user_name":"Nivaan",
+      "ActivitiesPerformed":[ "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":86,
+      "user_name":"Arihant",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":206,
+      "user_name":"Arihant",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":230,
+      "user_name":"Arihant",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":243,
+      "user_name":"Arihant",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":251,
+      "user_name":"Arihant",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",    "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":975,
+      "user_name":"Arihant",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",  "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":984,
+      "user_name":"Arihant",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":988,
+      "user_name":"Arihant",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ", "toys & games. "]
+   },
+   {
+      "user_id":993,
+      "user_name":"Arihant",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries "]
+   },
+   {
+      "user_id":994,
+      "user_name":"Arihant",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food"]
+   },
+   {
+      "user_id":242,
+      "user_name":"Neha",
+      "ActivitiesPerformed":[ "electronics ", "toys & games. "]
+   },
+   {
+      "user_id":874,
+      "user_name":"Neha",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":875,
+      "user_name":"Neha",
+      "ActivitiesPerformed":[ "electronics ", "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":983,
+      "user_name":"Neha",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1113,
+      "user_name":"Neha",
+      "ActivitiesPerformed":[ "electronics "]
+   },
+   {
+      "user_id":181,
+      "user_name":"Anushka",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":258,
+      "user_name":"Anushka",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":328,
+      "user_name":"Anushka",
+      "ActivitiesPerformed":[ "electronics ",  "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":382,
+      "user_name":"Anushka",
+      "ActivitiesPerformed":[ "electronics ", "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":487,
+      "user_name":"Anushka",
+      "ActivitiesPerformed":[ "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":644,
+      "user_name":"Anushka",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":645,
+      "user_name":"Anushka",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":646,
+      "user_name":"Anushka",
+      "ActivitiesPerformed":[ "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":810,
+      "user_name":"Anushka",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries ",   "healthAndPersonalCareItems ",   "IndustrialScientificSupplies ",   "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items "]
+   },
+   {
+      "user_id":878,
+      "user_name":"Anushka",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",   "gourmet food ",   "groceries "]
+   },
+   {
+      "user_id":881,
+      "user_name":"Anushka",
+      "ActivitiesPerformed":[ "electronics ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1020,
+      "user_name":"Anushka",
+      "ActivitiesPerformed":[ "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1068,
+      "user_name":"Anushka",
+      "ActivitiesPerformed":[ "electronics ",  "kitchenItems ",   "JewelryAndWatches ",   "lawn and garden items ",   "musical instruments ",   "sporting goods ",   "tools ",   "automotive items ",   "toys & games. "]
+   },
+   {
+      "user_id":1088,
+      "user_name":"Anushka",
+      "ActivitiesPerformed":[ "electronics ",   "beautyProducts ",  "toys & games. "]
+   }
+]
