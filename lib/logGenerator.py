@@ -15,7 +15,7 @@ class logGenerator:
         self.getUsersAndActivities()
  
     def getUsersAndActivities(self):
-        json_text = open(self.CD + '/Users.json', 'r').read()
+        json_text = open(self.CD + 'data/Users.json', 'r').read()
         users = json.loads(json_text)
         for user in users:
             self.USERS.append({user["user_id"] : user["user_name"]})
